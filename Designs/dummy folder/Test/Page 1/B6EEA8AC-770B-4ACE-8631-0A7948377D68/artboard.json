@@ -55,8 +55,8 @@
       "id": "F6FCBF3B-4E45-4E38-9192-004A94744552"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "ReanamedArtboard",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

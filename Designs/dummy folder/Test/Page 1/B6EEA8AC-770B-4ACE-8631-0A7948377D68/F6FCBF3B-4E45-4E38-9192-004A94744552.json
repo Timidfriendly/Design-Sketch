@@ -25,11 +25,11 @@
             "alignment": 2
           }
         },
-        "length": 5,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "*Edit"
+    "string": "*Edit two"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,11 +49,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 44,
-    "width": 85,
-    "x": 172.5,
+    "width": 155,
+    "x": 137.5,
     "y": 247
   },
-  "glyphBounds": "{{1, 4}, {84, 32}}",
+  "glyphBounds": "{{1, 4}, {153, 32}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "*Edit",
+  "name": "*Edit two",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
