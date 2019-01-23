@@ -25,16 +25,16 @@
             "alignment": 2
           }
         },
-        "length": 15,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "My first text \n"
+    "string": "*Edit"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B8243C21-22B2-44EB-8886-24440F8813F0",
+  "do_objectID": "F6FCBF3B-4E45-4E38-9192-004A94744552",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 88,
-    "width": 200,
-    "x": 115,
-    "y": 112
+    "height": 44,
+    "width": 85,
+    "x": 172.5,
+    "y": 247
   },
-  "glyphBounds": "{{0, 4}, {200, 40}}",
+  "glyphBounds": "{{1, 4}, {84, 32}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "My first text",
+  "name": "*Edit",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
