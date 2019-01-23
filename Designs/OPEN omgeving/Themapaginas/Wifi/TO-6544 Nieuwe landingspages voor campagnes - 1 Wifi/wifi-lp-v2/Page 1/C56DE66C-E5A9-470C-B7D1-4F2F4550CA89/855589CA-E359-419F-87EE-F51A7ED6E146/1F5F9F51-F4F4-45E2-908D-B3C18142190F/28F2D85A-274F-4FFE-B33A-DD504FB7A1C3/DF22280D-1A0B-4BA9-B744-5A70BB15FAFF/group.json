@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DF22280D-1A0B-4BA9-B744-5A70BB15FAFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1067,
+    "width": 510,
+    "x": 30.00000000000003,
+    "y": 35.99999999999979
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "62C070F7-E350-40F6-BA2A-84D1B7F77001"
+    },
+    {
+      "class": "group",
+      "id": "B60F68B8-78E9-4EC8-9E64-3B2B0D9AECDF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50F860F3-1F3C-4B72-8509-3E2A40032754"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1354665B-4C0E-4BA8-BD2C-6BCCA732A14C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A409CF85-8329-4943-9E0E-0F29E7B21FA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "70541973-8EE3-469B-A7EB-93EB838987DF"
+    },
+    {
+      "class": "text",
+      "id": "C236CDE1-745E-4A2C-8BD5-0D548331A450"
+    },
+    {
+      "class": "text",
+      "id": "E698D913-E459-418D-994A-B016B369EFBD"
+    }
+  ],
+  "name": "Stacked Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 2,
+        "isCollapsing": 1,
+        "spacing": 20,
+        "type": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

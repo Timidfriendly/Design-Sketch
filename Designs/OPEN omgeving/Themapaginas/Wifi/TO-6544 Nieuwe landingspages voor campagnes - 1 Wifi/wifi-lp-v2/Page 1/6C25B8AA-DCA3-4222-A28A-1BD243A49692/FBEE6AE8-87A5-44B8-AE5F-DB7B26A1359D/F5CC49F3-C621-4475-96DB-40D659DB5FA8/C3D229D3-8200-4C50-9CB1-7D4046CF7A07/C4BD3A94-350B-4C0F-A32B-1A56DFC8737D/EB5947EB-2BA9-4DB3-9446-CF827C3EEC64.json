@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EB5947EB-2BA9-4DB3-9446-CF827C3EEC64",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 364,
+    "width": 216,
+    "x": 495,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Product/ Desktop/ SectionPrimary/ ",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9536884C-BB8F-4FB7-892F-81C804308EEF_stringValue",
+      "value": "Internet & Bellen"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4861ACED-2350-4700-8AD3-350D0E610E72_symbolID",
+      "value": "C20EAB61-18F6-4266-8BAE-B6C46B21D88D"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7379C194-9CCF-4A9E-88A4-5ECF99A035CC_stringValue",
+      "value": "Stabiel internet en voordelig bellen met familie en vrienden."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "315CEFBC-1FDD-455A-A511-773FFB21E7E0_stringValue",
+      "value": "Vanaf €45,- p/mnd"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2BADFB37-85AB-44A6-A460-4E4F189AF023_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "50A868F0-9523-4365-B69B-F592076E3BE5_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AD3DB7A4-B6CD-4503-BB2D-9A924BEF2302",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

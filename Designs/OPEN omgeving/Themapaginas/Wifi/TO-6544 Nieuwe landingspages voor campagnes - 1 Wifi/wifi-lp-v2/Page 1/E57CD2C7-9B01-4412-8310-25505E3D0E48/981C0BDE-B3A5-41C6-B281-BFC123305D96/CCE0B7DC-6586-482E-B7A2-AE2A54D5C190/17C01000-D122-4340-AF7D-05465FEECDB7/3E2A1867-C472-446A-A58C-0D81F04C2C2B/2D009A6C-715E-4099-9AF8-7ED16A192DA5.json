@@ -1,0 +1,126 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2D009A6C-715E-4099-9AF8-7ED16A192DA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 145,
+    "width": 720,
+    "x": 0,
+    "y": 165
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Product/ Desktop/ SectionPrimary/ ",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4861ACED-2350-4700-8AD3-350D0E610E72_symbolID",
+      "value": "FFF3FD0A-42D7-4992-A889-9E7DAEE85CD9"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F39340C4-0B70-4C47-9414-6DB022CE2294",
+      "overrideName": "ECF97F7C-20F8-48DB-B5FD-34CBB3FA30B8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "371853E6-7500-494E-86CE-F21AECBCD757",
+      "overrideName": "17473E1C-166B-4BD4-8F8F-792BCAEE86E3/F63AB3C3-FEF6-4E50-A80D-50FDF1055FA3_stringValue",
+      "value": "Nu 6 mndn voor 40,- p/mnd"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BA76C268-7E0C-4151-B1C5-466B14B4C615",
+      "overrideName": "3732594A-2E8D-4D87-9907-97D2076E3326_stringValue",
+      "value": "Internet & Televisie"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E87E7186-8DF0-49CB-B388-FEAED50E78D3",
+      "overrideName": "03344174-9F3F-40A4-B6AD-29FAEA1158B8_stringValue",
+      "value": "Vanaf €57,50 p/mnd"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3775BC43-2F66-452B-A319-D10D0D3D9BD0",
+      "overrideName": "51AA7A3A-3024-4E2C-8C98-314EA006E41E_stringValue",
+      "value": "Stabiel internet en HD-TV. Mis nooit meer uw favoriete programma’s."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B8792EED-706E-4FCE-AFAF-4B68FA6E75A5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_07e2f149-5b81-442b-8c85-c613815eb4d0",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_76deb8dd-c36a-4271-aacd-bd0bdaf10a61",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ],
+        "stashedSizeV": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_07e2f149-5b81-442b-8c85-c613815eb4d0",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_76deb8dd-c36a-4271-aacd-bd0bdaf10a61",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

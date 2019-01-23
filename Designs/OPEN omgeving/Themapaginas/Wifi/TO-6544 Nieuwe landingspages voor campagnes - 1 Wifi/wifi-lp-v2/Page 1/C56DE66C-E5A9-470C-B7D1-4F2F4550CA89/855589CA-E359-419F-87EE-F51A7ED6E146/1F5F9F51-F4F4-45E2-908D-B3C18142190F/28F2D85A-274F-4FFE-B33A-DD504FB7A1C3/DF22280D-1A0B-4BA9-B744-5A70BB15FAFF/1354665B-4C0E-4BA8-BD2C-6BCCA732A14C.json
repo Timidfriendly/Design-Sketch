@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1354665B-4C0E-4BA8-BD2C-6BCCA732A14C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 175,
+    "width": 510,
+    "x": 0,
+    "y": 567
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Product Copy 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B571F032-F8A8-4122-8441-097A0BFC4277/F63AB3C3-FEF6-4E50-A80D-50FDF1055FA3_stringValue",
+      "value": "Nu 3 mndn voor 40,- p/mnd"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1799101-E71C-4FBC-A91B-9C6BD3174034",
+      "overrideName": "ECF97F7C-20F8-48DB-B5FD-34CBB3FA30B8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D8C9F69B-9C53-4DB6-A551-C472A96C73ED",
+      "overrideName": "17473E1C-166B-4BD4-8F8F-792BCAEE86E3_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "88C3244C-91A0-46E5-A10C-24BE245DF7DF",
+      "overrideName": "3732594A-2E8D-4D87-9907-97D2076E3326_stringValue",
+      "value": "Internet & Bellen"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C89DFF6D-2BD7-4BA1-8FB5-0D55D21E13CE",
+      "overrideName": "51AA7A3A-3024-4E2C-8C98-314EA006E41E_stringValue",
+      "value": "Stabiel internet en voordelig bellen met familie en vrienden.\n"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41460A80-46E1-48E5-B864-C14817D1B254",
+      "overrideName": "03344174-9F3F-40A4-B6AD-29FAEA1158B8_stringValue",
+      "value": "Vanaf €45,- p/mnd"
+    }
+  ],
+  "resizingConstraint": 58,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B8792EED-706E-4FCE-AFAF-4B68FA6E75A5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

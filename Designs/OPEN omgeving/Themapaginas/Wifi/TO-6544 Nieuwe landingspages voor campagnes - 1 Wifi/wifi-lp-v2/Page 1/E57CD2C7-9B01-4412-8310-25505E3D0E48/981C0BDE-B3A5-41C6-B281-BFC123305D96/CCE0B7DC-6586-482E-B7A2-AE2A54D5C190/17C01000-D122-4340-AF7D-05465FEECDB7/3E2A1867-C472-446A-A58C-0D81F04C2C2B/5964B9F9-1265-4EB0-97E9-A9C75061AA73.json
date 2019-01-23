@@ -1,0 +1,126 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5964B9F9-1265-4EB0-97E9-A9C75061AA73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 145,
+    "width": 720,
+    "x": 0,
+    "y": 330
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Product/ Desktop/ SectionPrimary/ ",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4861ACED-2350-4700-8AD3-350D0E610E72_symbolID",
+      "value": "C20EAB61-18F6-4266-8BAE-B6C46B21D88D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F3B98112-4A9C-4D39-BB29-2F6026861F6D",
+      "overrideName": "ECF97F7C-20F8-48DB-B5FD-34CBB3FA30B8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F7B0DD5A-7D7B-4C71-86E2-635B4BD3769C",
+      "overrideName": "17473E1C-166B-4BD4-8F8F-792BCAEE86E3_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8DAA6814-ABF6-4FF8-A1D6-6098E7A97A11",
+      "overrideName": "3732594A-2E8D-4D87-9907-97D2076E3326_stringValue",
+      "value": "Internet & Bellen"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E69705AF-26A5-4536-BFE2-592F898F6789",
+      "overrideName": "03344174-9F3F-40A4-B6AD-29FAEA1158B8_stringValue",
+      "value": "Vanaf €45,- p/mnd"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A265B914-D1C7-4398-811D-5658A2AEC3F4",
+      "overrideName": "51AA7A3A-3024-4E2C-8C98-314EA006E41E_stringValue",
+      "value": "Stabiel internet en voordelig bellen met familie en vrienden."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B8792EED-706E-4FCE-AFAF-4B68FA6E75A5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_0bd3fd8b-15b8-4948-b352-a59d93fad064",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_14fabedd-38df-4d1b-b869-a3cc406b6027",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ],
+        "stashedSizeV": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_0bd3fd8b-15b8-4948-b352-a59d93fad064",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_14fabedd-38df-4d1b-b869-a3cc406b6027",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

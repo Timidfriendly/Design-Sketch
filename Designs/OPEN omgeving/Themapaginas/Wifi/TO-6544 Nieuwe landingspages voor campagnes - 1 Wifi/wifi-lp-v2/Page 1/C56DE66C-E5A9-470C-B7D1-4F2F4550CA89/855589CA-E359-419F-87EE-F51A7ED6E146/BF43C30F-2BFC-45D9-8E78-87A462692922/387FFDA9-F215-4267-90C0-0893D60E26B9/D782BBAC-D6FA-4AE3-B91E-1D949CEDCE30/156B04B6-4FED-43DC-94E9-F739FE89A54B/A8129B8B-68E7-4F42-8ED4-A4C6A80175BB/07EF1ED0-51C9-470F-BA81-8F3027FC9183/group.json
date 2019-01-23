@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "07EF1ED0-51C9-470F-BA81-8F3027FC9183",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "762EE49C-0503-47F8-B8C5-5B13F6B441E4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D00BAE9-4BFB-49F9-84EB-96A0C7BBB275",
+    "height": 39,
+    "width": 111.4370078740157,
+    "x": 0,
+    "y": 52
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "931CE797-2C31-4700-BC36-4AB8D46C3DF7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC0D80D0-6618-4CEC-BE63-5F6BEB4E3536"
+    }
+  ],
+  "name": "Malware",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "96FEF825-A450-4370-88C5-350A9B55C09F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

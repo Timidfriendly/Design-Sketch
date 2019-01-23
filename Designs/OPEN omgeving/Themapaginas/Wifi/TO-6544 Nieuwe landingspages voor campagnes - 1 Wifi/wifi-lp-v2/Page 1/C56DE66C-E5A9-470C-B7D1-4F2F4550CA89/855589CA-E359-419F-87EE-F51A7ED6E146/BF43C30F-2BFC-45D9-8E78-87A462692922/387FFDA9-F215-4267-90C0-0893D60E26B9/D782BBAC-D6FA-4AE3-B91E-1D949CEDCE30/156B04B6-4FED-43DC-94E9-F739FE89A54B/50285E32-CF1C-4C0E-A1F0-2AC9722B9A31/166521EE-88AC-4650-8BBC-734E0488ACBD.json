@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "166521EE-88AC-4650-8BBC-734E0488ACBD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4B49D551-6B28-4497-8D41-AC1EB2A5167E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A7E1091-A37F-4829-A4E3-E4886DB434B6",
+    "height": 38,
+    "width": 86.78895591037349,
+    "x": 0.6574920902301035,
+    "y": 145
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "veilig/ cell/ selected",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5C8C8678-1A33-4750-B8ED-8F69442ABBBB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "85C05FBB-29B4-4CD0-A8F5-06755C14869A",
+  "verticalSpacing": 0
+}

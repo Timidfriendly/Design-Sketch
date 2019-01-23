@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "058F294E-6192-4EE6-802B-B3A18D11602E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1B65B4F3-32DD-463B-B356-D27B87466DAD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "090FC585-16BF-4DAE-A718-FF1FF4E7EC0A",
+    "height": 39,
+    "width": 41,
+    "x": 0.5003923461881641,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8AAC5FF2-C3D9-43E2-A869-DB95CF82E23A"
+    },
+    {
+      "class": "group",
+      "id": "429FFBD2-8C8A-4028-BF70-CE0161FD1D55"
+    }
+  ],
+  "name": "Icon malware",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "47548D81-AB20-4931-9ADA-CE14C50497F9",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.999999642372131,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "8983FEDF-C7AE-4226-8823-D304ACDC04E8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

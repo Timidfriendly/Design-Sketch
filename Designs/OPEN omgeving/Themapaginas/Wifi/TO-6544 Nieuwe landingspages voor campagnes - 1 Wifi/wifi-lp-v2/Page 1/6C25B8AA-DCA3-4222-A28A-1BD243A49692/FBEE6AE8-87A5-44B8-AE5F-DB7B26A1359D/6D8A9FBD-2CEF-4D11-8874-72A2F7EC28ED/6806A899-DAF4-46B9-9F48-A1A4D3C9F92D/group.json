@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6806A899-DAF4-46B9-9F48-A1A4D3C9F92D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8D662DB1-C610-4D25-85E5-99007B4A965A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E34BF2E-FA5D-4718-8B2E-4CF3A2D55E00",
+    "height": 285,
+    "width": 958,
+    "x": 32,
+    "y": 311
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D1A16B4E-608F-4955-B0D4-D4A2A956E40B"
+    },
+    {
+      "class": "group",
+      "id": "6013B3EE-102A-4FED-93F9-3080185846B9"
+    },
+    {
+      "class": "group",
+      "id": "E82BE0CB-4829-4BA7-B753-0BE384EA1A73"
+    }
+  ],
+  "name": "Online gevaren bestrijden",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "87204C94-D70A-40CB-8AE9-D4D3CC1362ED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E2C87754-BA86-4109-AD5C-7B8F7EB935D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 145,
+    "width": 720,
+    "x": 0,
+    "y": 495
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Product/ Desktop/ SectionPrimary/ ",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4861ACED-2350-4700-8AD3-350D0E610E72_symbolID",
+      "value": "897B947D-2BB9-4C6D-8462-C7471802C785"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB3D834B-B55F-4AAA-B5A4-E89769518689",
+      "overrideName": "ECF97F7C-20F8-48DB-B5FD-34CBB3FA30B8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "574AEC1E-1899-4DB9-BBFB-EA0563432852",
+      "overrideName": "17473E1C-166B-4BD4-8F8F-792BCAEE86E3_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "721180AF-1A78-40E7-9977-4CD0F7FBC42B",
+      "overrideName": "3732594A-2E8D-4D87-9907-97D2076E3326_stringValue",
+      "value": "Internet"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CB96627E-8F60-4811-93E2-A502B09776A1",
+      "overrideName": "03344174-9F3F-40A4-B6AD-29FAEA1158B8_stringValue",
+      "value": "Vanaf €40,- p/mnd"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3ADA0900-9089-42EF-A482-911A7B7F6D33",
+      "overrideName": "51AA7A3A-3024-4E2C-8C98-314EA006E41E_stringValue",
+      "value": "Van uw netwerk moet u het hebben. Kies voor sterk en stabiel internet."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B8792EED-706E-4FCE-AFAF-4B68FA6E75A5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeH": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_cd7f0c0d-3b53-4fde-8978-0c5e6b982106",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_b11b5552-0eef-416b-ac03-fd7f7194f70a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ],
+        "stashedSizeV": [
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_cd7f0c0d-3b53-4fde-8978-0c5e6b982106",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 0,
+            "enabled": 0,
+            "modelID": "constraint_b11b5552-0eef-416b-ac03-fd7f7194f70a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

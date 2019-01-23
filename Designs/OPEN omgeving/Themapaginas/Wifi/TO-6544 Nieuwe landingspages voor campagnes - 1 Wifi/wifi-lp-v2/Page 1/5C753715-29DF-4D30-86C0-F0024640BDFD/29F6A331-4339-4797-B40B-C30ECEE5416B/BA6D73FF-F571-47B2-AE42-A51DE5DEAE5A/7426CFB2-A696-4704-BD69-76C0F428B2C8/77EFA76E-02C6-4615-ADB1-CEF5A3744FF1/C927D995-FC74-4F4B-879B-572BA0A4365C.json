@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C927D995-FC74-4F4B-879B-572BA0A4365C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 175,
+    "width": 290,
+    "x": 0,
+    "y": 444
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Product Copy 3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B571F032-F8A8-4122-8441-097A0BFC4277/F63AB3C3-FEF6-4E50-A80D-50FDF1055FA3_stringValue",
+      "value": "Nu 3 mndn voor 40,- p/mnd"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "07F8170E-2BFC-4767-84D6-031CD4A92395_stringValue",
+      "value": "Internet & Televisie"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C01A3067-EE13-42FB-A40D-FD0120C726C1_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "95E85D37-188A-4D39-A809-6B46388E5C74_stringValue",
+      "value": "Vanaf €57,50 p/mnd"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "224695B3-29E9-4164-B6BE-93111A45C4E2_stringValue",
+      "value": "Stabiel internet en HD-TV. Mis nooit meer uw favoriete programma’s."
+    }
+  ],
+  "resizingConstraint": 58,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "83B6D081-6005-4BA0-AB61-AB877E754329",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

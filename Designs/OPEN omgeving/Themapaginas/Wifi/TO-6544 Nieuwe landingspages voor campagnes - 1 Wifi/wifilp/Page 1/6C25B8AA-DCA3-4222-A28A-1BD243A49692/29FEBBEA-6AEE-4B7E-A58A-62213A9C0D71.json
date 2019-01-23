@@ -1,0 +1,66 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "29FEBBEA-6AEE-4B7E-A58A-62213A9C0D71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 345,
+    "width": 438,
+    "x": 45,
+    "y": 2160
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/c8e66da44f1e0b9a81128127b06d13c932c56419",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Wifi-repeater-scenario@x4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 345,
+            "enabled": 1,
+            "modelID": "constraint_d962729b-48db-40ef-8cbd-74b0c99ecea2",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 438.3978
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_970c1ec7-c53e-4fda-b86d-1d5147adbfb1",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

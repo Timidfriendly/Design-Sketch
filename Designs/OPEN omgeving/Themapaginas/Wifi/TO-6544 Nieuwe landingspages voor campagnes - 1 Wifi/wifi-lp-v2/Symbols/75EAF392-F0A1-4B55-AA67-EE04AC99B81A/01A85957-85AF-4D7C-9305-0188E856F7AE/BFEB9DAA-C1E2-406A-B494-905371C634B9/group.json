@@ -1,0 +1,110 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BFEB9DAA-C1E2-406A-B494-905371C634B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 506,
+    "width": 721,
+    "x": 0,
+    "y": 0.3580000000000041
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B4482C34-E56E-464D-B2DE-0D65FF96D540"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3E7C99DE-E6F8-41C3-8358-AC8C7D1401E7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E15FB38-8F67-4A61-823B-021731496030"
+    },
+    {
+      "class": "shapePath",
+      "id": "40DF57F7-07BE-4C5D-92E4-21980B2A58D3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4F101C0F-1976-446F-B7F3-172374C04596"
+    },
+    {
+      "class": "shapePath",
+      "id": "346BA5B2-124C-4494-A608-F28361656E79"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4948749E-A33B-482C-BCCA-9B097394CBD6"
+    },
+    {
+      "class": "shapePath",
+      "id": "CDE88159-3F74-4C4F-A7D0-B20ED61DD459"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CEB33AE1-9F84-4B35-BFC4-C54B958D8ECC"
+    },
+    {
+      "class": "shapePath",
+      "id": "9C7EED64-C316-4766-9CEE-73377F04AE7A"
+    },
+    {
+      "class": "group",
+      "id": "799B9A35-9BEB-46D0-9C45-30492394D42E"
+    },
+    {
+      "class": "shapePath",
+      "id": "2F4B5FB0-C0F5-41F6-B228-2D63EA742BE6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "88990040-E943-445E-BA13-C48FFB532AB6"
+    },
+    {
+      "class": "shapePath",
+      "id": "142E8EFE-7165-46E0-9BB0-D3554DC41ACC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "921B7E4D-142D-4352-974F-9A7171428A28"
+    },
+    {
+      "class": "group",
+      "id": "C111CE20-4E3D-453F-89F9-A4C1E3B9B9D4"
+    }
+  ],
+  "name": "Group 36",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AB5D9EF1-82F1-4A73-9371-191627B4F64C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "38AC5E08-9AAA-4A29-8B5C-F688B3107854",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3A07D15F-ACE8-4E76-A7AF-9298BF89354F",
+    "height": 42,
+    "width": 21,
+    "x": 0.2752342758449231,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9F75F066-E04F-4E31-9DFF-6E19BFD122BB"
+    },
+    {
+      "class": "group",
+      "id": "AA63BEEB-8E24-48B8-9F6F-B85FD84DEDBF"
+    }
+  ],
+  "name": "Phishing",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "143B71FE-4E18-4294-B9B7-2AE5DEF8AD57",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.999999642372131,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "D2FAA7C2-449C-4E85-90EF-E0AE2CA4325B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

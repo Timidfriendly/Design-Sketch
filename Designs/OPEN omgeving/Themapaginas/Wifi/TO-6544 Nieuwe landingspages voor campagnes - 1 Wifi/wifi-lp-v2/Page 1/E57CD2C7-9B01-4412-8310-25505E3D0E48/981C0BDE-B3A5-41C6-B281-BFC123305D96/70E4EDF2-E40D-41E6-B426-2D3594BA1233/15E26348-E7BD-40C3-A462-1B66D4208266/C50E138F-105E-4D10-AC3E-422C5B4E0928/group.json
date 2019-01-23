@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C50E138F-105E-4D10-AC3E-422C5B4E0928",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 207,
+    "width": 162.3818770226537,
+    "x": 60.74999999999996,
+    "y": 37.91914893617022
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4979D9AD-054B-4367-8959-9720C64FD325"
+    },
+    {
+      "class": "group",
+      "id": "E31F973F-F922-4F4F-AA65-9C8606C4DD95"
+    },
+    {
+      "class": "group",
+      "id": "22F7528B-AF85-4032-AD03-096C8C6EDFAF"
+    },
+    {
+      "class": "group",
+      "id": "61636AF6-AEA4-415A-A0ED-560D6A1A6131"
+    },
+    {
+      "class": "group",
+      "id": "C0F4B33C-84B7-47D7-9757-D11CDE3F9A41"
+    },
+    {
+      "class": "group",
+      "id": "BFA68B88-D3D3-4D93-98D8-CEBC0D2753ED"
+    }
+  ],
+  "name": "Layer_3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8ABD3797-3742-455B-8F5A-48A9F69AC40E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 26,
+    "width": 26,
+    "x": 8,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "76967997-44C4-449F-986D-47BA11E163BE"
+    },
+    {
+      "class": "bitmap",
+      "id": "03A1F536-9326-4238-A0DD-B3186C7C5A11"
+    },
+    {
+      "class": "shapePath",
+      "id": "33C2C0B3-F868-46BD-B2D5-EEE3DFA8DE84"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "472FC529-D216-417F-ABA7-55B569B3F948"
+    },
+    {
+      "class": "shapePath",
+      "id": "05F773EE-0E20-4A7A-B526-4E505B80FFB0"
+    },
+    {
+      "class": "shapePath",
+      "id": "A8B83003-98F8-4B1C-A820-9291CE5233F7"
+    },
+    {
+      "class": "shapePath",
+      "id": "74D13911-BA66-479C-9C69-0200A9175079"
+    },
+    {
+      "class": "shapePath",
+      "id": "459B1CE8-16AF-48F3-9DC2-5F4E53941F51"
+    },
+    {
+      "class": "shapePath",
+      "id": "CD4DF0C7-8359-4918-8380-15FFB50E63B8"
+    }
+  ],
+  "name": "icon /internet /wit",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
