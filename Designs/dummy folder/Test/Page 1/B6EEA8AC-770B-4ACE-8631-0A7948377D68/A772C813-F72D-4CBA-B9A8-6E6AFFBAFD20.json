@@ -25,11 +25,11 @@
             "alignment": 2
           }
         },
-        "length": 10,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "*Edit FOUR"
+    "string": "*Edit FOUR & 5"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,11 +49,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 44,
-    "width": 196,
-    "x": 121.5,
+    "width": 258,
+    "x": 90.5,
     "y": 380
   },
-  "glyphBounds": "{{1, 4}, {196, 32}}",
+  "glyphBounds": "{{1, 4}, {256, 32}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "*Edit FOUR",
+  "name": "*Edit FOUR & 5",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
